@@ -9,3 +9,7 @@
 |coffee | String |
 |image | String |
 |price | Int |
+
+* Simulator 
+![TableView.png](../TableView.png)
+
