@@ -15,7 +15,6 @@
 
 * 연습하는 중 입니다.
 
-1 | 2 
 ----|----
 <img src="/TableView.png" width="200" height="350"> | 그림 옆 설명
 
