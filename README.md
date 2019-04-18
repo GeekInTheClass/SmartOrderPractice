@@ -18,7 +18,7 @@
 
 <img src="/TableView.png" width="200" height="350"> | 그림 옆 설명
 ----|----
-<img src="/TableView.png" width="200" height="350">하영</img> | 그림 옆 설명
+<img src="/TableView.png" width="200" height="350"> <p> 하영 | 그림 옆 설명
 
 
 
