@@ -13,12 +13,5 @@
 * <h3>Simulator</h3>
 <img src="/TableView.png" width="200" height="350">
 
-* 연습하는 중 입니다.
-
-
- | | 그림 옆 설명
-----|----
-<img src="/TableView.png" width="100" height="100"> | <center>하영</center> | 그림 옆 설명
-
 
 
