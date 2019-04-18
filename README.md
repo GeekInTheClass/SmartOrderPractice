@@ -1,6 +1,6 @@
-# SmartOrderPractice
-### 스마트 오더 앱
-------
+# SmartOrderPractice ### 스마트 오더 앱
+
+##
 * Table View
 
 ### 1.Menu 
