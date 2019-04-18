@@ -11,5 +11,5 @@
 |price | Int |
 
 * Simulator 
-![TableView.png](./TableView.png){: width="100" height="100}
+![TableView.png](./TableView.png){: width="100" height="100"}
 
