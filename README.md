@@ -11,5 +11,5 @@
 |price | Int |
 
 * <h3>Simulator</h3>
-![TableView.png](./TableView.png){: width="50" height="50"}
+<img src="/TableView.png" width="100" height="100">
 
