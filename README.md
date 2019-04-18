@@ -1,5 +1,5 @@
 # SmartOrderPractice
 
-##Table View
+## Table View
 
-###Menu 
+### Menu 
