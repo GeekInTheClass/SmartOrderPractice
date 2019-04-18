@@ -10,6 +10,6 @@
 |image | String |
 |price | Int |
 
-* Simulator 
-![TableView.png](./TableView.png){: width="100" height="100"}
+* <h3>Simulator</h3>
+![TableView.png](./TableView.png){: width="50" height="50"}
 
