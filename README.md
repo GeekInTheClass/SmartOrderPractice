@@ -1,7 +1,11 @@
-# SmartOrderPractice 
+# SmartOrder 
 ### 스마트 오더 앱
 
-* <h2> Table View</h2>
-### 1.Menu 
-cell : 이미지, 커피종류, 가격
+## Table View
+* <h3> Menu</h3>
 
+cell :
+
+|coffee | String |
+|image | String |
+|price | Int |
