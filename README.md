@@ -4,8 +4,8 @@
 ## Table View
 * <h3> Menu</h3>
 
-cell :
-
+|변수이름 | 변수타입|
+|----|----|
 |coffee | String |
 |image | String |
 |price | Int |
