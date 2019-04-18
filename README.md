@@ -20,3 +20,13 @@
 ----|----
 <img src="/TableView.png" width="200" height="350"> | 그림 옆 설명
 
+
+
+<div>
+<div>
+<img src="/TableView.png" width="200" height="350">
+</div>
+<div>
+그림 옆 설명
+</div>
+</div>
