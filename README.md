@@ -11,5 +11,5 @@
 |price | Int |
 
 * Simulator 
-![TableView.png](../TableView.png)
+![TableView.png](./TableView.png)
 
