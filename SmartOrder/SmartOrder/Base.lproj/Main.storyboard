@@ -25,10 +25,10 @@
             </objects>
             <point key="canvasLocation" x="96" y="115"/>
         </scene>
-        <!--Menu Ta Table View Controller-->
+        <!--Menu Table View Controller-->
         <scene sceneID="yYu-5N-VPP">
             <objects>
-                <tableViewController id="hB6-W9-Fqo" customClass="MenuTaTableViewController" customModule="SmartOrder" customModuleProvider="target" sceneMemberID="viewController">
+                <tableViewController id="hB6-W9-Fqo" customClass="MenuTableViewController" customModule="SmartOrder" customModuleProvider="target" sceneMemberID="viewController">
                     <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" id="SoQ-DB-svx">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>

@@ -1,5 +1,5 @@
 //
-//  MenuTaTableViewController.swift
+//  MenuTableViewController.swift
 //  SmartOrder
 //
 //  Created by 하영 on 2019. 4. 18..
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class MenuTaTableViewController: UITableViewController {
+class MenuTableViewController: UITableViewController {
     override func viewDidLoad() {
         
         super.viewDidLoad()
@@ -48,6 +48,7 @@ class MenuTaTableViewController: UITableViewController {
         let MenuForTheRow:Menu = MenuSubscript[indexPath.row]
         cell.textLabel?.text = MenuForTheRow.coffee
         cell.detailTextLabel?.text = String(MenuForTheRow.price)
+        
         cell.imageView?.image = UIImage(named: "그린커피")
         /*
         if indexPath.row > 4 {

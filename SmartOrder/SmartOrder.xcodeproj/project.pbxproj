@@ -13,7 +13,7 @@
 		D67B8F9122685F3E009FEBD5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D67B8F9022685F3E009FEBD5 /* Assets.xcassets */; };
 		D67B8F9422685F3E009FEBD5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D67B8F9222685F3E009FEBD5 /* LaunchScreen.storyboard */; };
 		D67B8F9C22685F8F009FEBD5 /* DataCenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = D67B8F9B22685F8F009FEBD5 /* DataCenter.swift */; };
-		D67B8F9E226869D4009FEBD5 /* MenuTaTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D67B8F9D226869D4009FEBD5 /* MenuTaTableViewController.swift */; };
+		D67B8F9E226869D4009FEBD5 /* MenuTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D67B8F9D226869D4009FEBD5 /* MenuTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +25,7 @@
 		D67B8F9322685F3E009FEBD5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D67B8F9522685F3E009FEBD5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D67B8F9B22685F8F009FEBD5 /* DataCenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataCenter.swift; sourceTree = "<group>"; };
-		D67B8F9D226869D4009FEBD5 /* MenuTaTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuTaTableViewController.swift; sourceTree = "<group>"; };
+		D67B8F9D226869D4009FEBD5 /* MenuTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,7 +62,7 @@
 				D67B8F9B22685F8F009FEBD5 /* DataCenter.swift */,
 				D67B8F8B22685F3D009FEBD5 /* ViewController.swift */,
 				D67B8F8D22685F3D009FEBD5 /* Main.storyboard */,
-				D67B8F9D226869D4009FEBD5 /* MenuTaTableViewController.swift */,
+				D67B8F9D226869D4009FEBD5 /* MenuTableViewController.swift */,
 				D67B8F9022685F3E009FEBD5 /* Assets.xcassets */,
 				D67B8F9222685F3E009FEBD5 /* LaunchScreen.storyboard */,
 				D67B8F9522685F3E009FEBD5 /* Info.plist */,
@@ -144,7 +144,7 @@
 				D67B8F9C22685F8F009FEBD5 /* DataCenter.swift in Sources */,
 				D67B8F8C22685F3D009FEBD5 /* ViewController.swift in Sources */,
 				D67B8F8A22685F3D009FEBD5 /* AppDelegate.swift in Sources */,
-				D67B8F9E226869D4009FEBD5 /* MenuTaTableViewController.swift in Sources */,
+				D67B8F9E226869D4009FEBD5 /* MenuTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
