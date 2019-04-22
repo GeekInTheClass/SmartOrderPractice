@@ -15,11 +15,12 @@ class DetailViewController: UITableViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        coffee.text = coffeeForView?.coffee
     }
     
     override func viewWillAppear(_ animated: Bool) {
         print(coffeeForView?.coffee)
-        coffee.text = coffeeForView?.coffee
         
     }
     
